@@ -25,3 +25,9 @@ ul {
   font-family: Arial, sans-serif;
   font-size: 12px;
 }
+
+a {
+  color: darkblue;
+  background-color: lightgray;
+  font-family: "Times new roman", sans-serif;
+  font-size: 16px;
