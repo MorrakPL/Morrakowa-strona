@@ -2,22 +2,26 @@ h1 {
   color: red;
   background-color: lightgray;
   font-family: Verdana, serif;
+  font-size: 20px;
 }
 
 p {
   color: #ff0945;
   background-color: lightgray;
   font-family: Arial, sans-serif;
+  font-size: 16px;
 }
 
 ol {
   color: rgb(21, 23, 44);
   background-color: lightgray;
   font-family: Arial, sans-serif;
+  font-size: 12px;
 }
 
 ul {
-  color: rgba(21, 23, 44, 0.4);
+  color: rgba(21, 65, 44, 0.4);
   background-color: lightgray;
   font-family: Arial, sans-serif;
+  font-size: 12px;
 }
