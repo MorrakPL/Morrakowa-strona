@@ -1,6 +1,23 @@
-* {
+h1 {
   color: red;
   background-color: gray;
-  font-family: Verdana;
-  
+  font-family: Verdana, serif;
+}
+
+p {
+  color: #ff0945;
+  background-color: red;
+  font-family: Arial, sans-serif;
+}
+
+ol {
+  color: rgb(21, 23, 44);
+  background-color: red;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  color: rgba(21, 23, 44, 0.4);
+  background-color: red;
+  font-family: Arial, sans-serif;
 }
